@@ -1,5 +1,5 @@
 {
-  "name": "excercise-11",
+  "name": "excercise-15",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^20.11.29"
-  }
+  "license": "ISC"
 }
