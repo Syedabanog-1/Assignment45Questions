@@ -1,18 +1,15 @@
 {
-  "name": "excercise-4",
+  "name": "excercise-5",
   "version": "1.0.0",
   "description": "",
-  "main": "main4.js",
-  "dependencies": {
-    "undici-types": "^5.26.5"
-  },
-  "devDependencies": {
-    "@types/node": "^20.11.28"
-  },
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.28"
+  }
 }
